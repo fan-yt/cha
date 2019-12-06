@@ -3,7 +3,7 @@ App({
   onLaunch: function () {
     
     if (!wx.cloud) {
-      console.error('略略略略略略略')
+      console.error('略把')
     } else {
       wx.cloud.init({
         env:'fanyutu-fu19p',
