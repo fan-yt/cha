@@ -3,7 +3,7 @@ App({
   onLaunch: function () {
     
     if (!wx.cloud) {
-      console.error('hhhhhhh')
+      console.error('你在哈哈哈 我把你头打歪')
     } else {
       wx.cloud.init({
         env:'fanyutu-fu19p',
